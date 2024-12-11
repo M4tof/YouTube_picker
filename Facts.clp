@@ -1,0 +1,2 @@
+(deffacts startup
+   (start))
