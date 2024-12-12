@@ -132,7 +132,7 @@ if __name__ == "__main__":
     environment = clips.Environment()
     load_clips_files(environment)
 
-    conversion_values = load_conversion_values('coversion.txt')
+    conversion_values = load_conversion_values('conversion.txt')
     
     root = tk.Tk()
     root.title("So you want to watch YouTube")
