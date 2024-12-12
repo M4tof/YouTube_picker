@@ -1,0 +1,3 @@
+startMessage=So you want to watch YouTube ?
+vloggerStart=Vlogger
+musicianStart=Musician
