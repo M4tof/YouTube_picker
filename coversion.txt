@@ -1,3 +1,10 @@
 startMessage=So you want to watch YouTube ?
 vloggerStart=Vlogger
 musicianStart=Musician
+singleOrColab=Do you want a collab or single channel?
+collab=Collab
+single=Single
+newOrOld=Do you want to watch new videos or two year old videos ?
+old=Old
+new=New
+OldAnwser=FIVEAWESOMEGUYS
