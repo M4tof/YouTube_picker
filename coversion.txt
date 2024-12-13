@@ -7,4 +7,4 @@ single=Single
 newOrOld=Do you want to watch new videos or two year old videos ?
 old=Old
 new=New
-OldAnwser=FIVEAWESOMEGUYS
+FIVEAWESOMEGUYS=FIVEAWESOMEGUYS

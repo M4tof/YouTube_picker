@@ -122,7 +122,7 @@ def finish(finalChoice):
     result_label = tk.Label(root, text="You should watch:", font=("Arial", 16, "bold"), bg="#262626", fg="white")
     result_label.pack(pady=20)
 
-    youtuber_label = tk.Label(root, text=finalChoice, font=("Comic Sans MS", 14), bg="#262626", fg="#d61731")
+    youtuber_label = tk.Label(root, text=finalChoice, font=("Times New Roman", 20), bg="#262626", fg="#d61731")
     youtuber_label.pack(pady=10)
 
 

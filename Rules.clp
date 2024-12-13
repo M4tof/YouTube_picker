@@ -21,6 +21,6 @@
 (defrule old
 (newOrOld old)
 =>
-(assert (UI-logic (display OldAnwser)
-                  (name OldAnwser)
+(assert (UI-logic (display FIVEAWESOMEGUYS)
+                  (name FIVEAWESOMEGUYS)
                   (state youtubeChannelName))))
