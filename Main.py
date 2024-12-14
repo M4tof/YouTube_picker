@@ -22,7 +22,7 @@ def load_conversion_values(file_path):
     with open(file_path, 'r') as file:
         return {
             name.strip(): text.strip()
-            for name, text in (line.split('=') for line in file)
+            for name, text in (line.split('=', 1) for line in file)
         }
 
 # Functions
